@@ -6,3 +6,6 @@ This app is build using:
 ## Functionalities:
 1. User can add and delete items.
 2. User can search body of particular item using "title" of todoItem in SearchBar.
+
+## URL:
+https://todo-list-app-a53d9.firebaseapp.com/
