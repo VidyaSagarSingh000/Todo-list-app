@@ -1,7 +1,7 @@
 # Todo-list-app
 This app is build using:
 HTML,CSS,JavaScript,React as frontend.
-Firebase as database
+Firebase as database.
 
 # Functionalities:
 1. User can add and delete items.
